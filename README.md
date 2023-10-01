@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **wikipedia clone**
+- 🔭I’m looking to collaborate on  **open source project**
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 I’m looking to collaborate on [open source project](https://pr1ynsu.github.io/Wikipedia-clone/)
+- 👯 I’m currently working on [Wikipedia Clone](https://pr1ynsu.github.io/Wikipedia-clone/)
 
 - 👨‍💻 All of my projects are available at [https://pr1ynsu.github.io/portfolio/](https://pr1ynsu.github.io/portfolio/)
 
