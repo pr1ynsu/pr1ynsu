@@ -3,6 +3,20 @@
   </div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
 <h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
+<div align="center">
+    <a href="2206283@kiit.ac.in" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="https://poddarpriyanshu.medium.com/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+    </a>
+    <a href="https://instagram.com/susprynx?igshid=M2RkZGJiMzhjOQ==" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    </a>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1ynsu&label=Profile%20views&color=0e75b6&style=flat" alt="pr1ynsu" /> </p>
 
