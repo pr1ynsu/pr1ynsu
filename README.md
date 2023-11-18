@@ -64,9 +64,12 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   </div>
+<br><br>
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1ynsu&show_icons=true&locale=en&layout=compact" alt="pr1ynsu" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1ynsu&show_icons=true&locale=en&layout=compact" alt="pr1ynsu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&show_icons=true&locale=en" alt="pr1ynsu" /></p>
+<img align="right" height="300 px" width="150 px" src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&show_icons=true&locale=en" alt="pr1ynsu" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&" alt="pr1ynsu" /></p>
+<img align="left" height="300 px" width="150 px" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&" alt="pr1ynsu" />
