@@ -39,20 +39,7 @@
 - 📄 Know about my experiences [https://pr1ynsu.github.io/portfolio/cv.html](https://pr1ynsu.github.io/portfolio/cv.html)
 
 - ⚡ Fun fact **i identify as cat(meow)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu-poddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-poddar" height="30" width="40" /></a>
-<a href="https://instagram.com/susprynx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susprynx" height="30" width="40" /></a>
-<a href="https://medium.com/@poddarpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@poddarpriyanshu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prynsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prynsu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/poddarpriyanshukr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poddarpriyanshukr" height="30" width="40" /></a>
-</p>
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
