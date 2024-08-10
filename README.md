@@ -1,6 +1,5 @@
 <div align="center">
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
     
   </div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
