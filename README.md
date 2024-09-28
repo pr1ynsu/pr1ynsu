@@ -1,7 +1,7 @@
 <div align="center">
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
     <img height="250" src="https://leetcard.jacoblin.cool/pr1ynsu?theme=light&font=Cantata%20One"/>
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username={pr1ynsu}" alt="LeetCode Badges"/>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu" alt="LeetCode Badges"/>
     
   </div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
