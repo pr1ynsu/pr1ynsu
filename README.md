@@ -24,7 +24,7 @@
   <br>
   <div align=center>
   <div>
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" /> <br>
     <img height="318" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
    </div>
   </div>
