@@ -1,6 +1,6 @@
 <div align="center">
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pr1ynsu)](https://github.com/KnlnKS/leetcode-stats)
+    [![priyanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pr1ynsu)](https://github.com/pr1ynsu/leetcode-stats)
     
   </div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
