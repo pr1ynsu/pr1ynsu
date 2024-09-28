@@ -1,18 +1,7 @@
 <div align="center">
-    <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
-       
-  </div>
-  
-<br/>
-<h2 align="center">⚡ Current LeetCode Stats ⚡</h2>
-<br>
-<div align=center>
-<div>
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
-  <img height="250" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
+    <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  /> 
  </div>
- 
-</div>
+
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
 <h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
 <div align="center">
@@ -29,7 +18,16 @@
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
     </a>
   </div>
-
+  
+  <br/>
+  <h2 align="center">⚡ Current LeetCode Stats ⚡</h2>
+  <br>
+  <div align=center>
+  <div>
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
+    <img height="318" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
+   </div>
+  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1ynsu&label=Profile%20views&color=0e75b6&style=flat" alt="pr1ynsu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr1ynsu" alt="pr1ynsu" /></a> </p>
