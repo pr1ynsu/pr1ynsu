@@ -2,6 +2,17 @@
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
        
   </div>
+  
+<br/>
+<h2 align="center">⚡ Current LeetCode Stats ⚡</h2>
+<br>
+<div align=center>
+<div>
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
+  <img height="250" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
+ </div>
+ 
+</div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
 <h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
 <div align="center">
@@ -76,15 +87,5 @@
 
 
 
-<br/>
-  <h2 align="center">⚡ Current LeetCode Stats ⚡</h2>
-<br>
-<div align=center>
-  <div>
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
-    <img height="250" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
-   </div>
-   
-</div>
 
   </div>
