@@ -73,4 +73,6 @@
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1ynsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&theme=tokyonight" alt="mystreak"/>
+     <a href="https://leetcode.com/pr1ynsu/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pr1ynsu/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
   </div>
