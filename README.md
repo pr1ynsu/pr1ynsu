@@ -1,8 +1,6 @@
 <div align="center">
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  />
-    <img height="250" src="https://leetcard.jacoblin.cool/pr1ynsu?theme=light&font=Cantata%20One"/>
-    <img height="250" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
-    
+       
   </div>
 <h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
 <h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
@@ -87,6 +85,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=pr1ynsu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1ynsu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img height="250" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
 </div>
 
   </div>
