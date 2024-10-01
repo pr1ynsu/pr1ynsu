@@ -28,6 +28,7 @@
     <img height="318" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
    </div>
   </div>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1ynsu&label=Profile%20views&color=0e75b6&style=flat" alt="pr1ynsu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr1ynsu" alt="pr1ynsu" /></a> </p>
