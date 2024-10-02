@@ -2,7 +2,7 @@
     <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  /> 
  </div>
 
-<h1 align="center">Greeting Folks 👋, I'm Priyanshu Poddar</h1>
+<h1 align="center">Greeting Folks , I'm Priyanshu Poddar</h1>
 <h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
 <div align="center">
     <a href="2206283@kiit.ac.in" target="_blank">
