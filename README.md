@@ -1,90 +1,110 @@
 <div align="center">
-    <img height="250" src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"  /> 
- </div>
+  <img src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif" height="250" />
+</div>
 
-<h1 align="center">Greeting Folks , I'm Priyanshu Poddar</h1>
-<h3 align="center">A passionate Full Stack developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
+<h1 align="center">Hey there 👋, I'm Priyanshu Poddar</h1>
+<h3 align="center">A Passionate Full Stack Developer from India | IT Undergrad @ KIIT</h3>
+
+---
+
 <div align="center">
-    <a href="priyanshukr804@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="https://poddarpriyanshu.medium.com/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-    </a>
-    <a href="https://instagram.com/_priynsu" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-    </a>
-  </div>
-  
-  <br/>
-  <h2 align="left">⚡ Current LeetCode Stats ⚡</h2>
-  <br>
-  <div align=center>
-  <div>
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" /> <br>
-    <img height="318" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" alt="LeetCode Badges"/>
-   </div>
-  </div>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1ynsu&label=Profile%20views&color=0e75b6&style=flat" alt="pr1ynsu" /> </p>
+  <a href="mailto:priyanshukr804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://poddarpriyanshu.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_priynsu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr1ynsu" alt="pr1ynsu" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About Me
 
-- 🔭I’m looking to collaborate on  **open source project**
+- 🔭 Currently building: **The River – An anonymous chatting forum**
+- 👨‍💻 Portfolio: [Visit here](https://priyanshu-s-portfolio.vercel.app/)
+- 📝 I write tech blogs at: [Medium](https://poddarpriyanshu.medium.com/)
+- 🎓 B.Tech in Information Technology at KIIT
+- 💬 Ask me about **MERN Stack, DSA, UI/UX, Open Source**
+- 📫 Reach me at **priyanshukr804@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1OVZhb0nONyXVXRj26Vt7_z_q5ZYlzNLz/view)
+- ⚡ Fun fact: I identify as a cat (meow 🐾)
 
-- 🌱 I’m currently learning **javascript**
+---
 
-- 👯 I’m currently working on [The-River](anonymous chatting forum)
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://priyanshu-s-portfolio.vercel.app/](https://priyanshu-s-portfolio.vercel.app/)
+#### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 📝 I regularly write articles on [https://poddarpriyanshu.medium.com/](https://poddarpriyanshu.medium.com/)
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- 📫 How to reach me **priyanshukr804@gmail.com**
+#### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OVZhb0nONyXVXRj26Vt7_z_q5ZYlzNLz/view)
+#### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-- ⚡ Fun fact **i identify as cat(meow)**
-<br><br>
-<h3 align="center">Languages and Tools:</h3>
-<div align="justify">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  </div>
-<br><br>
+#### ⚙️ Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & LeetCode
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1ynsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <p align="center">
-        <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&theme=tokyonight" alt="mystreak"/>
-  
+  <img src="https://leetcard.jacoblin.cool/pr1ynsu?theme=dark&font=Nunito&ext=heatmap" />
+  <img height="300" src="https://leetcode-badge-showcase.vercel.app/api?username=pr1ynsu&animated=true" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&show_icons=true&theme=dracula&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1ynsu&layout=compact&theme=dracula&langs_count=8" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&theme=tokyonight" height="200"/>
+</p>
 
+---
 
+### 🏆 GitHub Achievements
 
-  </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pr1ynsu&theme=dracula&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://priyanshu-s-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:priyanshukr804@gmail.com">📧 Mail</a> •
+  <a href="https://instagram.com/_priynsu" target="_blank">📷 Instagram</a> •
+  <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/">💼 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pr1ynsu&label=Profile%20views&color=0e75b6&style=flat" alt="pr1ynsu" />
+</p>
