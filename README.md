@@ -3,9 +3,9 @@
  </div>
 
 <h1 align="center">Greeting Folks , I'm Priyanshu Poddar</h1>
-<h3 align="center">A passionate frontend developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
+<h3 align="center">A passionate Full Stack developer from India, perusing B.Tech in Information Technology at Kalinga Institute of Industrial Technology.</h3>
 <div align="center">
-    <a href="2206283@kiit.ac.in" target="_blank">
+    <a href="priyanshukr804@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a>
     <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/" target="_blank">
@@ -14,13 +14,13 @@
     <a href="https://poddarpriyanshu.medium.com/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
     </a>
-    <a href="https://instagram.com/susprynx?igshid=M2RkZGJiMzhjOQ==" target="_blank">
+    <a href="https://instagram.com/_priynsu" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
     </a>
   </div>
   
   <br/>
-  <h2 align="center">⚡ Current LeetCode Stats ⚡</h2>
+  <h2 align="left">⚡ Current LeetCode Stats ⚡</h2>
   <br>
   <div align=center>
   <div>
@@ -39,20 +39,20 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 I’m currently working on [Wikipedia Clone](https://pr1ynsu.github.io/Wikipedia-clone/)
+- 👯 I’m currently working on [The-River](anonymous chatting forum)
 
-- 👨‍💻 All of my projects are available at [https://pr1ynsu.github.io/portfolio/](https://pr1ynsu.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://priyanshu-s-portfolio.vercel.app/](https://priyanshu-s-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://poddarpriyanshu.medium.com/](https://poddarpriyanshu.medium.com/)
 
-- 📫 How to reach me **2206283@kiit.ac.in**
+- 📫 How to reach me **priyanshukr804@gmail.com**
 
-- 📄 Know about my experiences [https://pr1ynsu.github.io/portfolio/cv.html](https://pr1ynsu.github.io/portfolio/cv.html)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OVZhb0nONyXVXRj26Vt7_z_q5ZYlzNLz/view)
 
 - ⚡ Fun fact **i identify as cat(meow)**
 <br><br>
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="justify">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -78,9 +78,9 @@
 <br><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pr1ynsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&theme=tokyonight" alt="mystreak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1ynsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <p align="center">
+        <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=pr1ynsu&theme=tokyonight" alt="mystreak"/>
   
 </p>
 
