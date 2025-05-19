@@ -97,8 +97,7 @@
 <p align="center">
   <a href="https://priyanshu-s-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:priyanshukr804@gmail.com">📧 Mail</a> •
-  <a href="https://instagram.com/_priynsu" target="_blank">📷 Instagram</a> •
-  <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/">💼 LinkedIn</a>
+    <a href="https://www.linkedin.com/in/priyanshu-poddar-133609246/">💼 LinkedIn</a>
 </p>
 
 ---
